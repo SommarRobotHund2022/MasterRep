@@ -1,9 +1,9 @@
-[submodule "PiServer"]
-	path = PiServer
-	url = https://github.com/SommarRobotHund2022/PiServer.git
-[submodule "AutoPi"]
-	path = AutoPi
-	url = https://github.com/SommarRobotHund2022/AutoPi.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/SommarRobotHund2022/Server.git
+[submodule "PiController"]
+	path = PiController
+	url = https://github.com/SommarRobotHund2022/PiController.git
 [submodule "Serial-Daemon"]
 	path = Serial-Daemon
 	url = https://github.com/SommarRobotHund2022/Serial-Daemon.git

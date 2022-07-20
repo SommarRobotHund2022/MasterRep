@@ -1,6 +1,6 @@
 # MasterRep
 
-A central repo for all parts of this projct.
+A central repo for all parts of this project.
 
 * AutoPi - Script handeling autonomous and manual control of the robotdog
 * PiServer -  Webserver for hosting the interface / GUI for controls
